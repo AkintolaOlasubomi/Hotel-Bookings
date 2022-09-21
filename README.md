@@ -20,6 +20,7 @@ With the increase in competition and demand in the market, ice wants to know the
 - 41223 duplicates found and removed
 - Arrival date was concatenated into one column using the concatenate formula
 - A new column was created with the condition of parking space to be no if it is zero and yes if not zero
+- Data imported into Power BI
 ### Exploratory Data Analysis And Insights
 - August and July generated the highest ADR this is due to the summer period
 - Online TA and Offline TA/TO had the highest numbers of bookings because they offered discount up to 30%
