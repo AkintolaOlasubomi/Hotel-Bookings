@@ -34,7 +34,7 @@ With the increase in competition and demand in the market, ice wants to know the
 - They should focus more on the Online TA and Offline TA/TO segments because that's where most of their customers come from.
 - The parking lot size does not need to be increased. This is because the most of guest coming in do not require a parking space.
 
-[See Dashboard Here]()
+[See Dashboard Here](https://github.com/AkintolaOlasubomi/Hotel-Bookings/blob/main/Hotel%20Bookings.jpg)
 
 
 **Note :** This project was a team project under the Octave 20 Data analysis projects program. I was the group leader for my team.
